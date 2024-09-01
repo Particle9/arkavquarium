@@ -1,0 +1,6 @@
+<map id="Aquarium" name="Aquarium">
+<area shape="rect" id="node2" href="$class_siput.html" title="Siput" alt="" coords="5,185,57,212"/>
+<area shape="rect" id="node3" href="$class_objek.html" title="Objek" alt="" coords="34,109,90,136"/>
+<area shape="rect" id="node5" href="$class_submarine.html" title="Submarine" alt="" coords="81,185,165,212"/>
+<area shape="rect" id="node4" href="$class_point.html" title="Point" alt="" coords="36,5,88,32"/>
+</map>

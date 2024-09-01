@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="aquarium/|aquarium/aquarium.jpg|coin/|coin/bronzecoin_32.png|coin/bronzecoin_512.png|coin/diamond_32.png|coin/diamond_512.png|coin/goldcoin_32.png|coin/goldcoin_512.png|coin/silvercoin_32.png|coin/silvercoin_512.png|cursor/|cursor/starfish_16.png|cursor/starfish_512.png|end_game/|end_game/lose.jpg|end_game/win.jpg|fish/|fish/guppy_100_l.png|fish/guppy_100_r.png|fish/guppy_512.png|fish/guppy_64_l.png|fish/guppy_64_r.png|fish/guppy_82_l.png|fish/guppy_82_r.png|fish/piranha_128_l.png|fish/piranha_128_r.png|fish/piranha_512.png|food/|food/food_20.png|food/food_512.png|menu/|menu/menu_normal.jpg|menu/menu_play.jpg|menu/menu_quit.jpg|siput/|siput/crab.png|siput/snail_100_l.png|siput/snail_100_r.png|siput/snail_128.png|siput/snail_512.png|siput/snail_64.png" including="aquarium/|aquarium/aquarium.jpg|coin/|coin/bronzecoin_32.png|coin/bronzecoin_512.png|coin/diamond_32.png|coin/diamond_512.png|coin/goldcoin_32.png|coin/goldcoin_512.png|coin/silvercoin_32.png|coin/silvercoin_512.png|cursor/|cursor/starfish_16.png|cursor/starfish_512.png|end_game/|end_game/lose.jpg|end_game/win.jpg|fish/|fish/guppy_100_l.png|fish/guppy_100_r.png|fish/guppy_512.png|fish/guppy_64_l.png|fish/guppy_64_r.png|fish/guppy_82_l.png|fish/guppy_82_r.png|fish/piranha_128_l.png|fish/piranha_128_r.png|fish/piranha_512.png|food/|food/food_20.png|food/food_512.png|menu/|menu/menu_normal.jpg|menu/menu_play.jpg|menu/menu_quit.jpg|siput/|siput/crab.png|siput/snail_100_l.png|siput/snail_100_r.png|siput/snail_128.png|siput/snail_512.png|siput/snail_64.png" kind="src" path="img"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="lib/junit_4/junit-4.12-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/junit_4/junit-4.12-sources.jar"/>
+	<classpathentry kind="lib" path="lib/junit_4/junit-4.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

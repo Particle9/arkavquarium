@@ -1,0 +1,28 @@
+var class_ikan =
+[
+    [ "Ikan", "class_ikan.html#a6ed246e3b85639868c624561c6e5f42a", null ],
+    [ "Ikan", "class_ikan.html#ad11c2d630dff6f3d9a1129029655f2b4", null ],
+    [ "getArah", "class_ikan.html#a2059bbceb47a3a2e25013f68aa657f14", null ],
+    [ "getFoodEaten", "class_ikan.html#ac10bd9b8648a4ba070f91a7048b91094", null ],
+    [ "getFoodRequired", "class_ikan.html#a6018ad3686c28f158e345fa8a8cc96fd", null ],
+    [ "getHealth", "class_ikan.html#a03979ad7be7753ac795360fda22b6c9f", null ],
+    [ "getHungerHealth", "class_ikan.html#abb156038baed8a17815dcab87cc9d93e", null ],
+    [ "getLevel", "class_ikan.html#ae8e8d10470b73a766aa103469a4c9ab6", null ],
+    [ "getMaxHealth", "class_ikan.html#ac39d66a7e5548dfa1798566165671d91", null ],
+    [ "getPrice", "class_ikan.html#a58a414cb234c8ce3dfca59831baaa7a9", null ],
+    [ "levelUp", "class_ikan.html#ad16ad4b60764965c62fb5d2d811aed76", null ],
+    [ "produceCoin", "class_ikan.html#a1873e2aadc60b4553c3c1b00fcdc6809", null ],
+    [ "setArah", "class_ikan.html#a468c1517b1d7227435f19d495f8b577b", null ],
+    [ "setFoodEaten", "class_ikan.html#a38f23cfe05849034843fa1fd6b58fba6", null ],
+    [ "setHealth", "class_ikan.html#ab6ebf8765c816c2fcad976dea7a28fa1", null ],
+    [ "setLevel", "class_ikan.html#a4ac1a7389722b0d90cdea084eeae0a96", null ],
+    [ "turn", "class_ikan.html#a69070048af8a005276c98a8cd6755edd", null ],
+    [ "arah", "class_ikan.html#a0c14a4fe8f03401597701dd35e939615", null ],
+    [ "dirDegree", "class_ikan.html#a52e4eb9fc490ebc0e127a8ec6c702225", null ],
+    [ "foodEaten", "class_ikan.html#a9173ea1ea901676851ee27e7a493a975", null ],
+    [ "health", "class_ikan.html#a1c10f6164f3d953e4a269f14206dd77e", null ],
+    [ "hungerStat", "class_ikan.html#ae0eec1e48cd85ed1c8cdefc08d58b008", null ],
+    [ "level", "class_ikan.html#ab9615db3b2a13cb2ac7f443137eec7db", null ],
+    [ "stateDirH", "class_ikan.html#aef505e7bd95177f9aa47e622b607615f", null ],
+    [ "stateDirV", "class_ikan.html#af5f0010ebce279593e6eb10c9e40a302", null ]
+];

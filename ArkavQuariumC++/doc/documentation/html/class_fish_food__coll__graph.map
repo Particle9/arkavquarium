@@ -1,0 +1,8 @@
+<map id="FishFood" name="FishFood">
+<area shape="rect" id="node5" href="$class_list.html" title="List\&lt; FishFood \&gt;" alt="" coords="110,364,231,391"/>
+<area shape="rect" id="node2" href="$class_objek_mati.html" title="ObjekMati" alt="" coords="242,185,323,212"/>
+<area shape="rect" id="node3" href="$class_objek.html" title="Objek" alt="" coords="255,109,311,136"/>
+<area shape="rect" id="node4" href="$class_point.html" title="Point" alt="" coords="257,5,309,32"/>
+<area shape="rect" id="node6" href="$class_list_1_1_list_elmt.html" title="List\&lt; T \&gt;::ListElmt" alt="" coords="5,185,136,212"/>
+<area shape="rect" id="node7" href="$class_list.html" title="List\&lt; T \&gt;" alt="" coords="92,275,167,301"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ObjekMati" name="ObjekMati">
+<area shape="rect" id="node3" href="$class_coin.html" title="Coin" alt="" coords="5,155,53,181"/>
+<area shape="rect" id="node4" href="$class_fish_food.html" title="FishFood" alt="" coords="78,155,154,181"/>
+<area shape="rect" id="node2" href="$class_objek.html" title="Objek" alt="" coords="44,5,100,32"/>
+</map>
